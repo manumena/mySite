@@ -1,9 +1,10 @@
 {
-  "name": "angular-seed",
-  "private": true,
+  "name": "mySite",
+  "private": false,
   "version": "0.0.0",
+  "author": "Manuel Mena",
   "description": "A starter project for AngularJS",
-  "repository": "https://github.com/angular/angular-seed",
+  "repository": "https://github.com/manumena/mySite",
   "license": "MIT",
   "devDependencies": {
     "bower": "^1.7.7",
@@ -16,6 +17,14 @@
     "karma-junit-reporter": "^0.4.1",
     "protractor": "^4.0.9"
   },
+  "engines": {
+    "node": "5.1.0",
+    "npm": "3.4.1"
+  },
+  "dependencies": {
+    "express": "4.13.3"
+  },
+  "cacheDirectories": ["node_modules"],
   "scripts": {
     "postinstall": "bower install",
 
