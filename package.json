@@ -22,6 +22,7 @@
     "npm": "3.4.1"
   },
   "dependencies": {
+    "bower": "1.7.1",
     "express": "4.13.3"
   },
   "cacheDirectories": ["node_modules"],
