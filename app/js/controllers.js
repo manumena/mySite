@@ -1,12 +1,14 @@
 angular.module('mySite.controllers', []).
 
-	controller('homeController', function($scope) {
-		$scope.numberOfCats = 5;
+	controller('gatitosController', function($scope) {
+		$scope.numberOfCats = 24;
 		$scope.headTitle = "A continuación, " + $scope.numberOfCats + " gatos";
 		$scope.getArray = function(size) {
 			return new Array(size);
 		}
 	}).
+
+	controller('homeController', function($scope) {}).
 
 	/* Drivers controller */
 	controller('driversController', function($scope, ergastAPIservice) {
