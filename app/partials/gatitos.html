@@ -1,4 +1,4 @@
-<h1>{{headTitle}}</h1>
+<h1 translate="kittens_title" translate-values="{numberOfCats: {{numberOfCats}}}">{{numberOfCats}}</h1>
 <div style="display:inline" ng-repeat="i in getArray(numberOfCats) track by $index">
 	<img ng-src="img/cat.jpg"></img>
 </div>

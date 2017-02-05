@@ -7,12 +7,15 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="#/">Home</a>
+      <a translate="home" class="navbar-brand" href="#/"></a>
     </div>
     <div id="navbar" class="collapse navbar-collapse">
       <ul class="nav navbar-nav">
-        <li><a href="#/gatitos">Gatitos</a></li>
+
+        <li><a translate="kittens" href="#/gatitos"></a></li>
+        <button type="button" ng-click="changeLanguage('es')" translate="es" class="btn btn-default navbar-btn"></button>
+        <button type="button" ng-click="changeLanguage('en')" translate="en" class="btn btn-default navbar-btn"></button>
       </ul>
-    </div><!--/.nav-collapse -->
+    </div>
   </div>
 </nav>

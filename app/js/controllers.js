@@ -2,7 +2,6 @@ angular.module('mySite.controllers', []).
 
 	controller('gatitosController', function($scope) {
 		$scope.numberOfCats = 24;
-		$scope.headTitle = "A continuación, " + $scope.numberOfCats + " gatos";
 		$scope.getArray = function(size) {
 			return new Array(size);
 		}
