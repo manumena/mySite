@@ -1,6 +1,6 @@
 angular.module('mySite.controllers', []).
 
-	controller('gatitosController', function($scope) {
+	controller('kittensController', function($scope) {
 		$scope.numberOfCats = 24;
 		$scope.getArray = function(size) {
 			return new Array(size);
@@ -31,10 +31,10 @@ angular.module('mySite.controllers', []).
 		$scope.driver = null;
 
 		ergastAPIservice.getDriverDetails($scope.id).success(function (response) {
-				$scope.driver = response.MRData.StandingsTable.StandingsLists[0].DriverStandings[0]; 
+				$scope.driver = response.MRData.StandingsTable.StandingsLists[0].DriverStandings[0];
 		});
 
 		ergastAPIservice.getDriverRaces($scope.id).success(function (response) {
-				$scope.races = response.MRData.RaceTable.Races; 
-		}); 
+				$scope.races = response.MRData.RaceTable.Races;
+		});
 	});
