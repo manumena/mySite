@@ -1,7 +1,7 @@
 angular.module('mySite.controllers', []).
 
 controller('kittensController', function($scope) {
-	$scope.numberOfCats = 24;
+	$scope.numberOfCats = 12;
 	$scope.getArray = function(size) {
 		return new Array(size);
 	}
