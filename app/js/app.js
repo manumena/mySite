@@ -8,7 +8,8 @@ var app = angular.module('mySite', [
 app.config(['$routeProvider', function($routeProvider) {
   $routeProvider.
 	when("/", {templateUrl: "partials/home.html"}).
-	when("/gatitos", {templateUrl: "partials/gatitos.html", controller: "kittensController"}).
+	when("/kittens", {templateUrl: "partials/kittens.html", controller: "kittensController"}).
+	when("/videogames", {templateUrl: "partials/videogames.html"}).
 	otherwise({redirectTo: '/'});
 }]);
 

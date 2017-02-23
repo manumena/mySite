@@ -1,9 +1,16 @@
 {
-  	"home": "Emperador de las tinieblas",
-  	"kittens": "Gatitos",
-    "es": "Español",
-    "en": "English",
+	"header.home": "Emperador de las tinieblas",
+	"header.kittens": "Gatitos",
+	"header.videogames": "Videojuegos",
+    "header.es": "Español",
+    "header.en": "English",
+
     "welcome": "Bienvenido!",
     "description": "Esta es una página en progreso. No dejes de comprobar si hay actualizaciones!",
-    "kittens_title": "A continuacion, {{numberOfCats}} gatitos"
+    "kittens_title": "A continuacion, {{numberOfCats}} gatitos",
+
+    "videogames.title": "Videojuegos",
+    "videogames.description": "En esta sección encontrarás información sobre algunos de los mejores juegos hasta la fecha",
+    "videogames.rocket_league.title": "Rocket League",
+    "videogames.rocket_league.description": "El Rocket League es un juego de autos en donde el objetivo es superar en goles al equipo adversario. Los equipos pueden ser de 1 a 4 jugadores. Los partidos duran 5 minutos; en caso de empatar el partido se extiende hasta que un equipo haga el gol de la victoria."
 }

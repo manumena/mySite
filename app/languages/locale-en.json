@@ -1,9 +1,15 @@
 {
-  	"home": "Emperador de las tinieblas",
-  	"kittens": "Kittens",
-    "es": "Español",
-    "en": "English",
+	"header.home": "Emperador de las tinieblas",
+	"header.kittens": "Kittens",
+    "header.videogames": "Videogames",
+    "header.es": "Español",
+    "header.en": "English",
+
     "welcome": "Welcome!",
     "description": "This is a page in progress. Don't stop checking for new updates!",
-    "kittens_title": "And now, {{numberOfCats}} kittens"
+    "kittens_title": "Then, {{numberOfCats}} kittens",
+
+    "videogames.title": "Videojuegos",
+    "videogames.description": "In this section you will find information about some of the best games to date",
+    "videogames.rocket_league.title": "Rocket League"
 }

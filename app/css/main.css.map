@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AAAA,IAAK;EACH,WAAW,EAAE,IAAI;;AAGnB,iBAAkB;EAChB,OAAO,EAAE,SAAS;EAClB,UAAU,EAAE,MAAM",
-"sources": ["../scss/partials/base.scss"],
+"mappings": "AAAA,IAAK;EACH,WAAW,EAAE,IAAI;;AAGnB,iBAAkB;EAChB,OAAO,EAAE,SAAS;EAClB,UAAU,EAAE,MAAM;;ACNpB,cAAe;EACd,UAAU,EAAE,MAAM;;ACDnB,wBAAyB;EACxB,QAAQ,EAAE,QAAQ;EAElB,4BAAI;IACH,MAAM,EAAE,KAAK;IACb,KAAK,EAAE,IAAI;IACX,UAAU,EAAE,KAAK;EAGlB,mDAA0B;IACzB,gBAAgB,EAAE,KAAK;IACvB,QAAQ,EAAE,QAAQ;IAClB,MAAM,EAAE,CAAC;IACT,KAAK,EAAE,IAAI;IACX,OAAO,EAAE,GAAG;IAEZ,sDAAG;MACF,KAAK,EAAE,KAAK;MACZ,WAAW,EAAE,IAAI",
+"sources": ["../scss/partials/_base.scss","../scss/partials/_common.scss","../scss/partials/_videogames.scss"],
 "names": [],
 "file": "main.css"
 }
