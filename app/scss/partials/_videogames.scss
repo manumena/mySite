@@ -1,23 +1,29 @@
-.videogame-img-container {
-	position: relative;
+.videogame-container {
+	.videogame-img-container {
+		position: relative;
 
-	img {
-		height: 200px;
-		width: 100%;
-		object-fit: cover;
+		img {
+			height: 200px;
+			width: 100%;
+			object-fit: cover;
+		}
+
+		.videogame-title-container{
+			background-color: black;
+			position: absolute;
+			bottom: 0;
+			width: 100%;
+			opacity: 0.5;
+
+			h2 {
+				color: white;
+				margin-left: 10px;
+
+			}
+		}
 	}
 
-	.videogame-title-container{
-		background-color: black;
-		position: absolute;
-		bottom: 0;
-		width: 100%;
-		opacity: 0.5;
-
-		h2 {
-			color: white;
-			margin-left: 10px;
-
-		}
+	p {
+		margin-top: 10px;
 	}
 }

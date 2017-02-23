@@ -8,20 +8,22 @@ body {
 .centered-text {
   text-align: center; }
 
-.videogame-img-container {
+.videogame-container .videogame-img-container {
   position: relative; }
-  .videogame-img-container img {
+  .videogame-container .videogame-img-container img {
     height: 200px;
     width: 100%;
     object-fit: cover; }
-  .videogame-img-container .videogame-title-container {
+  .videogame-container .videogame-img-container .videogame-title-container {
     background-color: black;
     position: absolute;
     bottom: 0;
     width: 100%;
     opacity: 0.5; }
-    .videogame-img-container .videogame-title-container h2 {
+    .videogame-container .videogame-img-container .videogame-title-container h2 {
       color: white;
       margin-left: 10px; }
+.videogame-container p {
+  margin-top: 10px; }
 
 /*# sourceMappingURL=main.css.map */

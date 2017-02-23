@@ -12,5 +12,11 @@
     "videogames.title": "Videojuegos",
     "videogames.description": "En esta sección encontrarás información sobre algunos de los mejores juegos hasta la fecha",
     "videogames.rocket_league.title": "Rocket League",
-    "videogames.rocket_league.description": "El Rocket League es un juego de autos en donde el objetivo es superar en goles al equipo adversario. Los equipos pueden ser de 1 a 4 jugadores. Los partidos duran 5 minutos; en caso de empatar el partido se extiende hasta que un equipo haga el gol de la victoria."
+    "videogames.rocket_league.description": "El Rocket League es un juego de autos en donde el objetivo es superar en goles al equipo adversario. Los equipos pueden ser de 1 a 4 jugadores. Los partidos duran 5 minutos; en caso de empatar el partido se extiende hasta que un equipo haga el gol de la victoria. Usá los saltos y el turbo para volar por los aires y las paredes para golear al enemigo.",
+    "videogames.ssb4.title": "Super Smash Bros. 4",
+    "videogames.ssb4.description": "De los mejores juegos de pelea que se hayan visto. Gran cantidad de personajes, controles simples, mecánicas excelentes y numerosa cantidad de tecnicas avanzadas hacen que este juego nunca dejen de sorprenderte con algo nuevo. El objetivo es sacar a tu oponente de la pantalla, lo cual se hace cada vez más facil cuanto mas daño reciba.",
+    "videogames.twau.title": "The Wolf Among Us",
+    "videogames.twau.description": "Es una aventura grafica donde las decisiones tomadas desenlazan caminos diferentes en la historia. Esta basado en las historietas de <em>VERTIGO</em> que a su vez están basadas en las historias de cuentos de hadas clásicas. El protagonista es Bigby Wolf (El lobo feroz). Totalmente atrapante, gran historia.",
+    "videogames.ninja_gaiden_2.title": "Ninja Gaiden II",
+    "videogames.ninja_gaiden_2.description": "Acción pura. Necesitarás mucha velocidad y reflejos para vencer a los miles de demonios ninjas que aparecerán en tu camino. Un hack & slash donde el protagonista es Ryu Hayabusa, un muy bien entrenado ninja mitad humano mitad dragón que luchará para restablecer el honor de su clán."
 }
