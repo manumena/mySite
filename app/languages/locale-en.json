@@ -11,5 +11,14 @@
 
     "videogames.title": "Videojuegos",
     "videogames.description": "In this section you will find information about some of the best games to date",
-    "videogames.rocket_league.title": "Rocket League"
+    "videogames.rocket_league.title": "Rocket League",
+    "videogames.rocket_league.description": "Rocket League is a game of cars where the goal is to beat the opposing team's score. Teams can be made from 1 to 4 players. The matches last 5 minutes; in case of tie the party extends until a team makes the goal of victory. Use the jumps and turbo to fly through the air and walls to score.",
+    "videogames.ssb4.title": "Super Smash Bros. 4",
+    "videogames.ssb4.description": "Of the best fighting games ever made. Plenty of characters, simple controls, excellent mechanics and numerous advanced techniques make this game never cease to amaze you with something new. The goal is to get your opponent off the screen, which becomes easier and easier the more damage the opponent takes.",
+    "videogames.twau.title": "The Wolf Among Us",
+    "videogames.twau.description": "It is a graphic adventure where the decisions taken unravel different paths in the story. It is based on <em> VERTIGO <em> comic strips, which in turn are based on stories of classic fairy tales. The main character is Bigby Wolf (The Big Bad Wolf). Totally enthralling, great story.",
+    "videogames.ninja_gaiden_2.title": "Ninja Gaiden II",
+    "videogames.ninja_gaiden_2.description": "Pure action. You'll need lots of speed and reflexes to beat the thousands of ninja demons that will come your way. A hack & slash where the protagonist is Ryu Hayabusa, a very well-trained half-human half-dragon ninja who will fight to re-establish the honor of his clan.",
+    "videogames.broken_age.title": "Broken Age",
+    "videogames.broken_age.description": "Graphic adventure where you control a boy and a girl who live different realities. The story is exquisite and leaves you in expectation for a second part that has not yet come."
 }
