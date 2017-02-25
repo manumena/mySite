@@ -1,4 +1,8 @@
-<h1 translate="kittens_title" translate-values="{numberOfCats: {{numberOfCats}}}">{{numberOfCats}}</h1>
-<div style="display:inline" ng-repeat="i in getArray(numberOfCats) track by $index">
-	<img ng-src="img/cat.jpg"></img>
+<div class="container">
+	<h1 translate="kittens_title" translate-values="{numberOfCats: {{numberOfCats}}}">{{numberOfCats}}</h1>
+	<div class="row">
+		<div ng-repeat="i in getArray(numberOfCats / 3) track by $index" class="col-lg-4">
+			<img ng-src="img/cat.jpg"></img>
+		</div>
+	</div>
 </div>
