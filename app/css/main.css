@@ -8,6 +8,9 @@ body {
 .centered-text {
   text-align: center; }
 
+.nav button {
+  margin-left: 10px; }
+
 .videogame-container .videogame-img-container {
   position: relative; }
   .videogame-container .videogame-img-container img {
